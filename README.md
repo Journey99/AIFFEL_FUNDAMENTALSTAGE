@@ -8,3 +8,4 @@
 |Fund_04| 9. Data 어떻게 표현하면 좋을까? 배열(array)과 표(table) | Numpy와 Pandas에 대하여 |
 |Fund_05| 10. 다양한 데이터 전처리 기법 | 결측치와 이상치를 해결하는 방법 등 데이터 전처리에 대하여 |
 |Fund_06| 11. 데이터를 한눈에! Visualization | Pandas, Matplotlib, Seaborn을 이용해 그래프 그리는 법에 대하여|
+|Fund_07| 12. 사이킷런으로 구현해 보는 머신러닝 | 다양한 머신러닝 알고리즘과 사이킷런 사용법에 대하여 |
