@@ -18,3 +18,4 @@
 |Fund_14| 19. 선형 회귀와 로지스틱 회귀 | 선형 회귀와 로지스틱 회귀의 개념을 익히고 유방함 데이터 셋으로 실습해본다  |
 |Fund_15| 20. 비지도 학습 | 머신러닝의 학습 방법 중 하나인 비지도 학습(Unsupervised Learning)의 개념과 주요 알고리즘에 대해 알아본다  |
 |Fund_16| 21. TF2 API 개요 | Tensorflow V2의 표준 API로 활용되고 있는 Keras API의 model, layer 등 핵심적인 개념을 활용하는 방법을 실습을 통해 확인해   |
+|Fund_17| 22. 딥네트워크, 서로 뭐가 다른 거죠? | cv에 주로 사용되는 Convolutional Neural Network의 주요 개념 및 널리 사용되는 VGG, ResNet 등 네트워크 구조에 대해 알아본다  |
