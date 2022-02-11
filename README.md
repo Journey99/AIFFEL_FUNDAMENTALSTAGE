@@ -21,3 +21,4 @@
 |Fund_17| 22. 딥네트워크, 서로 뭐가 다른 거죠? | cv에 주로 사용되는 Convolutional Neural Network의 주요 개념 및 널리 사용되는 VGG, ResNet 등 네트워크 구조에 대해 알아본다  |
 |Fund_18| 23. 딥러닝 레이어의 이해(1) Linear, Convolution | 딥러닝에서 레이어의 개념을 이해하고, 그 중 Linear 레이어와 Convolution 레이어에 대해 보다 자세하게 알아본다.  |
 |Fund_19| 24. 딥러닝 레이어의 이해(2) Embedding, Recurrent |  딥러닝 레이어의 이해(1)에 이어서, Embedding 레이어와 Recurrent 레이어에 대해 보다 자세하게 알아본다. |
+|Fund_20| 25. Regularization | 정칙화(Regularization) 개념과, L1, L2 regularization, Dropout, batch normalization에 대해 알아본다.  |
