@@ -22,3 +22,6 @@
 |Fund_18| 23. 딥러닝 레이어의 이해(1) Linear, Convolution | 딥러닝에서 레이어의 개념을 이해하고, 그 중 Linear 레이어와 Convolution 레이어에 대해 보다 자세하게 알아본다.  |
 |Fund_19| 24. 딥러닝 레이어의 이해(2) Embedding, Recurrent |  딥러닝 레이어의 이해(1)에 이어서, Embedding 레이어와 Recurrent 레이어에 대해 보다 자세하게 알아본다. |
 |Fund_20| 25. Regularization | 정칙화(Regularization) 개념과, L1, L2 regularization, Dropout, batch normalization에 대해 알아본다.  |
+|Fund_21| 26. 활성화 함수의 이해 | 퍼셉트론에서 선형과 비선형이 가지는 의미 및 비선형함수가 필요한 이유를 파악하고, 다양한 활성화 함수에 대해 알아본다.  |
+|Fund_22| 27. Likelihood(MLE와 MAP) |베이지안 머신 러닝 모델의 prior, posterior, likelihood 개념을 학습하고 MLE(최대 가능도 추론)와 MAP(최대 사후 확률 추정)의 최적해를 구하는 과정과 두 방법의 차이를 이해한다. |
+|Fund_23| 28. 정보이론 톺아보기 |  머신러닝의 가장 중요한 이론 중 하나인 정보이론(Information Theory)의 주요 개념인 Entropy, Cross Entropy, KL divergence 등의 개념을 파악하고, 이런 개념들이 머신러닝 이론과 어떻게 연결되는지의 사례를 알아본다. |
